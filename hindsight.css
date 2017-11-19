@@ -1,0 +1,25 @@
+body{
+	background-color: #FFEFD5;
+}
+
+#bandLogo{
+	color:#CD0000;
+	font-weight: bold;
+	font-family: Impact;
+	font-size: 50px;
+	text-align-last: center;
+	padding: 30px;
+}
+
+.titles{
+	color: #8B8B83;
+	font-weight: bold;
+	font-family: Impact;
+	font-size: 20px;
+	padding: 30px;
+}
+
+a, a:visited{
+	text-decoration:none;
+	color: inherit;
+}
